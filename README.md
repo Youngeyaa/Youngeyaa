@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Youngeyaa&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Youngeyaa&fontSize=90" />
+
 
 
 <a href="https://www.instagram.com/youngeyaaa?igsh=dGplOGVlOWs4NDJq&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
