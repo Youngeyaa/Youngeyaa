@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi.
 
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=timeGradient&height=300&section=header&text=Youngeyaa&fontSize=90" />
 
